@@ -5,3 +5,6 @@ p {
     width: 150px;
     height: 150px;
 }
+#box1 {
+    background-color: red;
+}
