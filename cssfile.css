@@ -1,6 +1,6 @@
 p {
     color : red
 }
-div #container {
+div.column {
     color : blue
 }
